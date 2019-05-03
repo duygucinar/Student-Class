@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1509606756 source:c:\users\uset\desktop\proje\proje2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1509606756 source:c:\users\uset\desktop\proje\prolab-i\proje2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
